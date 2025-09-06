@@ -114,6 +114,7 @@ nav > ul > li > a{
     }
     .home-text{
         text-align: center;
+        width: 23rem;
     }
     .home-image{
     width: 25rem;
